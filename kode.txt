@@ -1,19 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1,Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+https://cdn-laos.workpoint.news/sd-aljazeera_480/index.m3u8
 
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,Bloomberg[US]
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
+#EXTINF:-1,Bloomberg[US]
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
 #EXTINF:-1,CBSN
-https://www.cbsnews.com/common/video/dai_prod.m3u8
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1,Cheddar,
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1,DW
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
 #EXTINF:-1,F24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
@@ -21,17 +27,14 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1,SkyNews
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
+#EXTINF:-1,NHK
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 #EXTINF:-1,RT
-https://rt-usa.secure.footprint.net/1105.m3u8
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1,TRT
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1,iFeng
-http://liveali.ifeng.com/live/FHZX.m3u8
-
-#EXTINF:-1,PhoenixTV
-http://liveali.ifeng.com/live/FHZW.m3u8
 
 #EXTINF:-1,RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
@@ -39,5 +42,32 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
 #EXTINF:-1,RTHK32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052.m3u8
 
-#EXTINF:-1,NHK
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1,OpenTV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1,FTVnews
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1,TVB
+http://m.567it.com/jade.m3u8
+
+#EXTINF:-1,Pearl,
+http://m.567it.com/Pearl.m3u8
+
+#EXTINF:-1,VoA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+
+#EXTINF:-1,NatGeo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1,NatGeoPeople
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1,NatGeoWild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1,STAR-Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1,STAR-World
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
