@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Al Jazeera
-https://cdn-laos.workpoint.news/sd-aljazeera_480/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,BloombergUS
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
