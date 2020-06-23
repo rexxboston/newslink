@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://cdn-laos.workpoint.news/sd-aljazeera_480/index.m3u8
 
 #EXTINF:-1,BloombergUS
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
@@ -53,6 +53,15 @@ http://m.567it.com/jade.m3u8
 
 #EXTINF:-1,Pearl
 http://m.567it.com/Pearl.m3u8
+
+#EXTINF:-1,PhoenixINFO
+http://192.154.103.75:8080//ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
+
+#EXTINF:-1,PhoenixCHI
+http://192.154.103.75:8080//ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
+
+#EXTINF:-1,PhoenixHK
+http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 
 #EXTINF:-1,VoA
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
