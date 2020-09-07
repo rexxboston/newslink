@@ -54,17 +54,17 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1,RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
 
-#EXTINF:-1,三立新聞台
+#EXTINF:-1,SETnews
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 
-#EXTINF:-1,民視新聞台
+#EXTINF:-1,FTVnews
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 
-#EXTINF:-1,開電視
+#EXTINF:-1,OpenTV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1,翡翠台
+#EXTINF:-1,TVB
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1,明珠台
+#EXTINF:-1,Pearl
 http://m.567it.com/Pearl.m3u8
