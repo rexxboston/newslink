@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [ Global News ]
+#EXTINF:-1,【Global News】
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1,Al Jazeera
@@ -36,7 +36,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1, [ USA & Local ]
+#EXTINF:-1,【USA & Local】
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1,ABCnews Live
@@ -69,7 +69,7 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1,SkyNews-au
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
-#EXTINF:-1, [ Asia ]
+#EXTINF:-1,【Asian】
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
 
 #EXTINF:-1,RTHK31
