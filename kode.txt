@@ -88,7 +88,7 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
 
 #EXTINF:-1,RTHK32
-https://www.rthk.hk/feeds/ddt/rthktv32_https.m3u8
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1,NTD
 https://live.ntdimg.com/aplive200/playlist.m3u8
