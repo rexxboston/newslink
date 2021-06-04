@@ -16,7 +16,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,F24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1,F24(Fr)
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1,DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
