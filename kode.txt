@@ -15,6 +15,9 @@ http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:-1,SkyNewsAU
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -24,26 +27,8 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 #EXTINF:-1,Cheddar
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,NBCnews Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-
 #EXTINF:-1,Boston 7news
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-
-#EXTINF:-1,FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,FOX Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,FOX Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-
-#EXTINF:-1,FOX Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1,NASA
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -84,9 +69,6 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,RT
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 
-#EXTINF:-1,BBC LIFESTYLE
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-
 #EXTINF:-1,= Asian =
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 
@@ -97,7 +79,7 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1,RTHK Live
-http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+http://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-p.m3u8
 
 #EXTINF:-1,TVBnews
 http://livetv.dnsfor.me/channel.10.m3u8
@@ -111,32 +93,14 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,TVB
 http://m.567it.com/jade.m3u8
 
+#EXTINF:-1,Pearl
+http://m.567it.com/Pearl.m3u8
+
 #EXTINF:-1,NTD
 https://live.ntdimg.com/aplive200/playlist.m3u8
 
 #EXTINF:-1,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-
-#EXTINF:-1,KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,Pearl
-http://m.567it.com/Pearl.m3u8
-
-#EXTINF:-1,Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1,Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1,ETVnews
 http://seb.sason.top/sc/dsxw_fhd.m3u8
