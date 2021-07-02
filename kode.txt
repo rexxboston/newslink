@@ -1,38 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,= USA =
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1,NewsMax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1,Fox News
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-
-#EXTINF:-1,OATV
-http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-
-#EXTINF:-1,SkyNewsAU
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1,CBSN Boston
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-
-#EXTINF:-1,Cheddar
-https://live.chdrstatic.com/cheddar/primary/1.m3u8
-
-#EXTINF:-1,Boston 7news
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-
-#EXTINF:-1,NASA
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1,= Global News =
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
@@ -51,14 +18,14 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,F24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1,F24(Fr)
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-
 #EXTINF:-1,DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
 #EXTINF:-1,NHK
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1,SkyNews
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
@@ -99,9 +66,6 @@ http://m.567it.com/Pearl.m3u8
 #EXTINF:-1,NTD
 https://live.ntdimg.com/aplive200/playlist.m3u8
 
-#EXTINF:-1,Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-
 #EXTINF:-1,ETVnews
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 
@@ -131,3 +95,36 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 
 #EXTINF:-1,ZTnews
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+
+#EXTINF:-1,= USA =
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1,CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1,Cheddar
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+
+#EXTINF:-1,NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1,Fox News
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1,OATV
+http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1,SkyNewsAU
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1,Boston 7news
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+#EXTINF:-1,NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
